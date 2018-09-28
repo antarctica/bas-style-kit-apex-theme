@@ -115,12 +115,13 @@ To create the required regions:
 2. edit the *global page*
 3. add *Static Content* regions to the *FOOTER* page area as per below:
 
-| Region | Region Name          |  Start New Row | Column      | Column Span | Template                | CSS Classes | Content |
-| 1      | `Is something wrong` |  *Yes*         | `1`         | `6`         | *Blank with Attributes* | *None*      | [1]     | 
-| 2      | `Back to top`        |  *No*          | *Automatic* | *Automatic* | *Blank with Attributes* | `u-textEnd` | [2]     |
-| 3      | `Divider`            |  *Yes*         | *Automatic* | *Automatic* | *Blank with Attributes* | *None*      | [3]     |
-| 4      | `Governance`         |  *Yes*         | `1`         | `9`         | *Blank with Attributes* | *None*      | [4]     |
-| 5      | `Legal`              |  *No*          | *Automatic* | *Automatic* | *Blank with Attributes* | `u-textEnd` | [5]     |
+| Region | Region Name          | Start New Row | Column      | Column Span | Template                | CSS Classes | Content |
+| ------ | -------------------- | ------------- | ----------- | ----------- | ----------------------- | ----------- | ------- |
+| 1      | `Is something wrong` | *Yes*         | `1`         | `6`         | *Blank with Attributes* | *None*      | [1]     | 
+| 2      | `Back to top`        | *No*          | *Automatic* | *Automatic* | *Blank with Attributes* | `u-textEnd` | [2]     |
+| 3      | `Divider`            | *Yes*         | *Automatic* | *Automatic* | *Blank with Attributes* | *None*      | [3]     |
+| 4      | `Governance`         | *Yes*         | `1`         | `9`         | *Blank with Attributes* | *None*      | [4]     |
+| 5      | `Legal`              | *No*          | *Automatic* | *Automatic* | *Blank with Attributes* | `u-textEnd` | [5]     |
 
 [1]
 
