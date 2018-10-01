@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Changed
+
+* Adding guidance on adding navbar launcher items for an existing application, as the menus might not be the same
+
 ## 0.1.0 (2018-09-28)
 
 ### Added

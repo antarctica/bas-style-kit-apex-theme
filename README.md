@@ -98,8 +98,8 @@ To apply the Style Kit's [navigation launcher](https://style-kit-testing.web.bas
 | 2         | 1                | `BAS Home`                         | *URL*       | `https://www.bas.ac.uk`  |
 | 3         | 1                | `Discover BAS Data`                | *URL*       | `https://data.bas.ac.uk` |
 
-**Note:** If you don't see the *Desktop Navigation Bar* navigation list (which might happen if migrating an existing application), look a navigation menu
-that contains the logout link, as this is the menu shown in the same location.
+**Note:** If you don't see the *Desktop Navigation Bar* navigation list (which might happen if migrating an existing application), look for a navigation 
+menu that contains the logout link, as this is the menu shown in the same location.
 
 ### Footer
 
